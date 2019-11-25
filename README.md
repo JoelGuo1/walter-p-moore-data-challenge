@@ -1,4 +1,4 @@
-# walter-p-moore-data-challenge
+# Walter-P-Moore-Data-Challenge
 This is the data challenge held by Walter P Moore, which an international company providing engineering services.  The data is their detailed project information in time series manner and the goal is to predict the profitability of a project.<br>
 Can we use data collected from historical projects to model a project’s profitability with high precision?  This company requested us to use this data in order to help them identify the metrics that are good predictors of project’s profitability. In addition, by identifying these features that are associated with a project’s profitability, they will be able to improve how they conduct future projects.  
 
