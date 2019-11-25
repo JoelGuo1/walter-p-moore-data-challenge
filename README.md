@@ -20,5 +20,8 @@ Walter P Moore has evaluated these data before using black-box methods with appr
 <ol type="1">
   <li><h2>Project Gain and Loss</h2>
   There are 7029 profitable projects and 3097 unprofitable projects, giving a ratio of profitable projects versus unprofitable projects of 2.27:1. And the total profit is larger than total loss, so the company has a positive net profit. However, the average profit for profitable projects is 3,218, while the average lost for unprofitable projects is 18,451. Furthermore, some projects generated extreme loss like 2 millions. This shows that the company should be very careful at picking projects since the loss of a single project is greater than the gain of a single project, so taking one unprofitable project mistakenly may eat up the gain from several projects.</li>
-  <li></li>
-<ol>
+  <li><h2>Model Fitting</h2>
+  For the model, we used XGboost. 
+  </li>
+  <li><h2>Interpretation and Evaluation</h2>
+  </li>
