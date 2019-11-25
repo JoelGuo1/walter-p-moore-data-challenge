@@ -15,3 +15,5 @@ The data contain repeated measures for the variables, but the profitability is o
 Cost-plus projects are known to be profitable no matter what because they are billed by each hour of work at a profitable rate; it may be of interest to remove these projects from your data prior to analysis.  Projects that start with project code “15” are not profitable because it is the billing code used for corporate overhead work; it may also be of interest to remove these projects from your data prior to analysis.
 
 Walter P Moore has evaluated these data before using black-box methods with approximately 90% accuracy, but would like to have a more interpretable model that can be utilized in practice.
+
+# Results and Achievement
